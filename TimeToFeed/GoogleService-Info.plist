@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1013660140803-qngr0v2s65a1fpcrh3vp6qldnsmhe1ef.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1013660140803-qngr0v2s65a1fpcrh3vp6qldnsmhe1ef</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhmKJqxoxjPUk04rpXLRf2PC8r60fG36k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1013660140803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sun-Asterisk.TimeToFeed</string>
+	<key>PROJECT_ID</key>
+	<string>timetofeed-35198</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timetofeed-35198.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1013660140803:ios:bd2173268a5f82e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://timetofeed-35198.firebaseio.com</string>
+</dict>
+</plist>
